@@ -16,6 +16,4 @@ Welcome to my GitHub!
 
 ![0-recent-medium-article](https://github-readme-medium-recent-article.vercel.app/medium/@dmateusp/0)
 
-### (Human) languages I speak
-
-🇬🇧 🇵🇹 🇫🇷
+#### I speak English, French and Portuguese
