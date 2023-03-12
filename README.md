@@ -6,7 +6,6 @@
 
 Welcome to my GitHub!
 
-- 💻 I work at [Earnest Research](https://www.earnestresearch.com/).
 - 🌎 I'm 100% **remote** from 🇵🇹. I've also lived in 🇨🇭, 🇫🇷 and 🇮🇪.
 - 📖 **Open Source** enthusiast.
 - 🦺 Interested in **Functional Programming**.
